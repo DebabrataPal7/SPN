@@ -38,3 +38,15 @@ If you use any content of this repo for your work, please cite the following bib
     pages={1-5},  
     doi={10.1109/LGRS.2021.3085522}
   }
+  
+If you use any content of this repo for your work, please cite the following bib entry:
+
+	@InProceedings{Pal_2022_WACV,
+    author    = {Pal, Debabrata and Bundele, Valay and Sharma, Renuka and Banerjee, Biplab and Jeppu, Yogananda},
+    title     = {Few-Shot Open-Set Recognition of Hyperspectral Images With Outlier Calibration Network},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2022},
+    pages     = {3801-3810}
+	}
+
