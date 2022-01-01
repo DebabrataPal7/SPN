@@ -1,6 +1,6 @@
 # Stable Prototypical Network (SPN)
 
-The code repository for "SPN: Stable Prototypical Network for Few-Shot Learning-Based Hyperspectral Image Classification" [[paper]](https://ieeexplore.ieee.org/abstract/document/9455864) (GRSL) in Tensorflow. 
+The code repository for "SPN: Stable Prototypical Network for Few-Shot Learning-Based Hyperspectral Image Classification" [[paper]](https://ieeexplore.ieee.org/abstract/document/9455864) (GRSL'22) in Tensorflow. 
 
 ## SPN: Stable Prototypical Network for Few-Shot Learning-Based Hyperspectral Image Classification
 
