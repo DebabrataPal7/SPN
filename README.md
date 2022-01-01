@@ -28,7 +28,7 @@ Download from (http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensin
 Download from (https://hyperspectral.ee.uh.edu/?page_id=459)
 
 ## Source Code
-The codes for meta-training, fine-tuning and meta-testing on 3 benchmark HSI datasets are available in src folder with name as "SPN_<Dataset_name>". The code is configured for 5-way 5-shot recognition. 
+The codes for meta-training, fine-tuning and meta-testing on 3 benchmark HSI datasets are available in src folder with name as "SPN_<Dataset_name>_5shot". The code is configured for 5-way 5-shot recognition. 
 
 ## Citation  
 If you use any content of this repo for your work, please cite the following bib entry:
