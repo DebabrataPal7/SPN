@@ -25,28 +25,16 @@ Download from (https://hyperspectral.ee.uh.edu/?page_id=459)
 ## Source Code
 The codes for meta-training, fine-tuning and meta-testing on 3 benchmark HSI datasets are available in src folder with name as "SPN_<Dataset_name>". The code is configured for 5-way 5-shot recognition. 
 
-## Citation
+## Citation  
 If you use any content of this repo for your work, please cite the following bib entry:
 
-  @ARTICLE{9455864,  
-    author={Pal, Debabrata and Bundele, Valay and Banerjee, Biplab and Jeppu, Yogananda},  
-    journal={IEEE Geoscience and Remote Sensing Letters},   
-    title={SPN: Stable Prototypical Network for Few-Shot Learning-Based Hyperspectral Image Classification},   
-    year={2022},  
-    volume={19},  
-    number={},  
-    pages={1-5},  
-    doi={10.1109/LGRS.2021.3085522}
-  }
-  
-If you use any content of this repo for your work, please cite the following bib entry:
-
-	@InProceedings{Pal_2022_WACV,
-    author    = {Pal, Debabrata and Bundele, Valay and Sharma, Renuka and Banerjee, Biplab and Jeppu, Yogananda},
-    title     = {Few-Shot Open-Set Recognition of Hyperspectral Images With Outlier Calibration Network},
-    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-    month     = {January},
+	@ARTICLE{9455864,
+    author    = {Pal, Debabrata and Bundele, Valay and Banerjee, Biplab and Jeppu, Yogananda},
+    journal={IEEE Geoscience and Remote Sensing Letters},
+    title     = {SPN: Stable Prototypical Network for Few-Shot Learning-Based Hyperspectral Image Classification},
     year      = {2022},
-    pages     = {3801-3810}
+    volume    = {19},
+    number    = {},
+    pages     = {1-5},
+    doi       = {10.1109/LGRS.2021.3085522}
 	}
-
