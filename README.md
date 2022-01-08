@@ -12,7 +12,7 @@ We tackle the problem of few-shot image classification in the context of remote 
 
 The following packages are required to run the scripts:
 
-- [Tensorflow 2.1](https://www.tensorflow.org/)
+- [Tensorflow 2.x](https://www.tensorflow.org/)
 - [sklearn 0.21.2](https://scikit-learn.org/stable/)
 - [numpy 1.16.4](https://numpy.org/)
 - [matplotlib 3.1.1](https://matplotlib.org/)
