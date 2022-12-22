@@ -35,7 +35,7 @@ If you use any content of this repo for your work, please cite the following bib
 
 	@ARTICLE{9455864,
     author    = {Pal, Debabrata and Bundele, Valay and Banerjee, Biplab and Jeppu, Yogananda},
-    journal={IEEE Geoscience and Remote Sensing Letters},
+    journal   = {IEEE Geoscience and Remote Sensing Letters},
     title     = {SPN: Stable Prototypical Network for Few-Shot Learning-Based Hyperspectral Image Classification},
     year      = {2022},
     volume    = {19},
